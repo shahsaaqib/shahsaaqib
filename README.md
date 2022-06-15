@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shahsaaqib
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning node.js 
+- 🌱 I’m currently working as backend nodeJs developer.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
