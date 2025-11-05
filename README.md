@@ -1,29 +1,80 @@
-# Hello, I'm [Saaqib] 👋
+# 👋 Hey, I'm **Saaqib Ashraf**
 
-## About Me
-I'm a passionate backend developer with a focus on [Javascript, python]. I love turning complex problems into simple, efficient, and scalable solutions. My goal is to contribute to cutting-edge projects and collaborate with like-minded developers to create meaningful software.
+### 🚀 Backend Developer | AI & Cloud Enthusiast | Scalable Systems Architect
 
-## 🔧 Technologies & Tools
-- **Languages:** [Javascript, Python, Java, C, C++]
-- **Frameworks:** [Node.Js, Typescript]
-- **Databases:** [MySQL, MongoDB, PostgreSQL]
-- **Tools:** [Git, Docker, Vscode, AWS, Cloud]
+I’m a **backend-focused software engineer** passionate about building **intelligent, high-performance systems** that blend **AI with modern backend architectures**.
+I specialize in **Node.js, TypeScript, and PostgreSQL**, with strong experience in **system design**, **API engineering**, and **cloud-native development**.
 
-## 🚀 Projects
-- [Dev-camper API](https://github.com/shahsaaqib/devcamper-api)
-- [EdTech-Management](https://github.com/shahsaaqib/EdTech-Management)
-- ...
+---
 
-## 🌱 I’m currently learning
-- [Distributed systems, scalibility, system design]
-- [Nest.Js, DSA, Cloud]
+## 🧠 What I Do
 
-## 👯‍♂️ I’m looking to collaborate on
-I'm open to collaboration on projects related to [E-commerce, CRM, Authentication systems, Role based systems]. If you have an exciting project or idea, feel free to reach out!
+* ⚙️ Design and develop **scalable backend systems** with Node.js & Fastify
+* 🧩 Integrate **AI models (OpenAI / OpenRouter)** into real-world applications
+* 🧱 Work with **PostgreSQL, Prisma, Redis, and MongoDB** for robust data layers
+* 🐳 Build **containerized microservices** with Docker & deploy to the Cloud
+* 🔍 Optimize APIs for performance, caching, and distributed workloads
+* 🤝 Collaborate on clean, maintainable, and production-ready solutions
 
-## 📫 How to reach me
-- Email: [shahsaaqib01@gmail.com]
-- LinkedIn: [http://linkedin.com/in/saaqibashraf]
+---
 
+## 🧩 Tech Stack
 
-Thanks for visiting my GitHub profile! Let's connect and build something amazing together. 😊
+**Languages:**
+🟨 JavaScript (ES6+), 🟦 TypeScript, 🐍 Python, ☕ Java, 💻 C++
+
+**Frameworks & Tools:**
+⚡ Node.js, Fastify, Express, Nest.js, Prisma, Docker, Postman
+
+**Databases:**
+🗄️ PostgreSQL, MongoDB, MySQL, Redis
+
+**Cloud & DevOps:**
+☁️ AWS (EC2, S3, Lambda), Azure, Docker Compose, CI/CD
+
+**AI & Integrations:**
+🤖 OpenAI, OpenRouter, LangChain (in progress)
+
+---
+
+## 🧱 Featured Projects
+
+| Project                                                                            | Description                                                                            | Tech                                                 |
+| ---------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- | ---------------------------------------------------- |
+| 🧠 [**AI Resume Screener**](https://github.com/shahsaaqib/ai-resume-screener)      | Full-stack app that parses resumes, extracts PDF text, and analyzes profiles using AI  | Fastify, Prisma, PostgreSQL, React, Tailwind, OpenAI |
+                
+---
+
+## 🧭 Currently Exploring
+
+* 🧩 **Distributed systems** and **event-driven architecture**
+* ⚙️ **System design patterns** for backend scalability
+* 🧠 AI backend integration (LangChain, model-serving APIs)
+* ☁️ Advanced **AWS infrastructure automation**
+
+---
+
+## 🧠 Philosophy
+
+> “Write systems that scale, APIs that empower, and code that explains itself.”
+
+I believe engineering is about **clarity, reliability, and intent** — not just syntax.
+I approach every project like a product: measurable, testable, and deployable.
+
+---
+
+## 💬 Let’s Connect
+
+📧 **Email:** [shahsaaqib01@gmail.com](mailto:shahsaaqib01@gmail.com)
+💼 **LinkedIn:** [linkedin.com/in/saaqibashraf](https://linkedin.com/in/saaqibashraf)
+💻 **GitHub:** [github.com/shahsaaqib](https://github.com/shahsaaqib)
+
+---
+
+### ⚡ Fun Fact
+
+I enjoy diving deep into backend architecture diagrams, exploring how small design decisions compound at scale, and reading system design case studies from companies like Netflix and Uber.
+
+---
+
+⭐️ *"Building the backend of tomorrow — one API at a time."*
